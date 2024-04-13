@@ -6,14 +6,13 @@
 - Previously known as **Cypher**
 - Used Log-in System and keys were generated during account registration
 - Utilized Google FireBase DB
-- 
 
 ### Version 2
 - Cypher was renamed to **SafeKeyp**
+- **NEW GUI**
 - Scrapped Login system
 - Revamped Encryption Logic
 - Revamped Decryption Logic
-- **NEW GUI**
 - Implemented Error handling
 
 ### Version 2.1
