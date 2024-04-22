@@ -1,0 +1,133 @@
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\bin\Debug\CypherWithGuna.exe.config
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\bin\Debug\CypherWithGuna.exe
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\bin\Debug\CypherWithGuna.pdb
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\bin\Debug\Guna.UI.dll
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\SafeKeyp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.Forms.SafeKeypErrorPopup.resources
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.SafeKeypMainpage.resources
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.Forms.SafeKeypDialog.resources
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\SafeKeyp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\SafeKeyp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\SafeKeyp.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.exe
+C:\Users\Lenovo\Desktop\str8up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\bin\Debug\CypherWithGuna.exe.config
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\bin\Debug\CypherWithGuna.exe
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\bin\Debug\CypherWithGuna.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\bin\Debug\Guna.UI.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\SafeKeyp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.SafeKeypErrorPopup.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\CypherWithGuna.SafeKeypMainpage.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.SafeKeypDialog.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\SafeKeyp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\SafeKeyp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\SafeKeyp.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\CypherWithGuna.exe
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\CypherWithGuna.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.DecryptUserControl.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (attempt 2)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.EncryptUserControl.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\CypherWithGuna.exe.config
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\CypherWithGuna.exe
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\CypherWithGuna.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Guna.UI.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\SafeKeyp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.DecryptUserControl.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.EncryptUserControl.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.SafeKeypErrorPopup.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.SafeKeypMainpage.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.SafeKeypDialog.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\SafeKeyp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\SafeKeyp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\SafeKeyp.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.exe
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.DirectoriesDisplay.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.RecoveryItem.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Api.Gax.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Apis.Core.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Apis.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Cloud.Location.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.LongRunning.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Auth.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Core.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Net.Client.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Net.Common.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.CodeDom.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Linq.Async.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Api.Gax.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Apis.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Apis.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Apis.Core.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Cloud.Location.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Cloud.Location.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.LongRunning.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.LongRunning.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Auth.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Auth.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Core.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Core.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Net.Client.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Net.Client.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Net.Common.pdb
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Grpc.Net.Common.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.CodeDom.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Linq.Async.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.OverwriteRecoveryInformationDialog.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.SetupFileRecoveryForm.resources
+C:\Users\Lenovo\source\repos\SafeKeyp\Version 2.2 (incomplete)\Visual Studio Stuff\obj\Debug\CypherWithGuna.Forms.RecoverKeyForm.resources

@@ -21,3 +21,8 @@
 - Centered Error dialogs and popups to location of the Main form
 - Aesthetic changes
 - Implemented "How to Use" page in application
+
+### Version 2.2
+- **File Key Recovery System Implemented**
+- Overhaulled UI to utilize user conrols
+- Firebase DB implmentation for key recovery database
