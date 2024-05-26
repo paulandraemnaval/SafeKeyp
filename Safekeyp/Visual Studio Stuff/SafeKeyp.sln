@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeKeyp", "SafeKeyp.csproj", "{BE8587F5-8A11-4EE6-9F6A-37F51995D529}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "..\Tests\Tests.csproj", "{A15CF69E-39EF-4D37-A789-409C24EC4A9E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "installer", "..\installer\installer.vdproj", "{E5CC8072-3685-4DB4-9F15-DAEF925E58F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8587F5-8A11-4EE6-9F6A-37F51995D529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8587F5-8A11-4EE6-9F6A-37F51995D529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8587F5-8A11-4EE6-9F6A-37F51995D529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8587F5-8A11-4EE6-9F6A-37F51995D529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15CF69E-39EF-4D37-A789-409C24EC4A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15CF69E-39EF-4D37-A789-409C24EC4A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15CF69E-39EF-4D37-A789-409C24EC4A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15CF69E-39EF-4D37-A789-409C24EC4A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CC8072-3685-4DB4-9F15-DAEF925E58F4}.Debug|Any CPU.ActiveCfg = Debug
+		{E5CC8072-3685-4DB4-9F15-DAEF925E58F4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEBB5221-EAA8-46E3-89A5-EAC6D7A124B9}
+	EndGlobalSection
+EndGlobal

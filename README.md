@@ -26,3 +26,8 @@
 - **File Key Recovery System Implemented**
 - Overhaulled UI to utilize user conrols
 - Firebase DB implmentation for key recovery database
+
+### Final Version (3.0)
+- **File Recovery System removed**
+- **Design Overhaul**
+- **Changed UI/UX**

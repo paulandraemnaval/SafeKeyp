@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.MainPageWithGuna.resources
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\bin\Debug\CypherWithGuna.exe.config
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\bin\Debug\CypherWithGuna.exe
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\bin\Debug\CypherWithGuna.pdb
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\bin\Debug\Guna.UI.dll
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.exe
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.pdb
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.Forms.ErrorDialog.resources
+C:\Users\Lenovo\Desktop\str8 up\Cypher\GunaCypher\CypherWithGuna\obj\Debug\CypherWithGuna.Forms.SafeKeypDialog.resources
